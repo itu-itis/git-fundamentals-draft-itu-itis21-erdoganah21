@@ -19,15 +19,15 @@ ul	{
 	}
 a:hover {
 	text-decoration: none;
-}
+	}
 
 li:first-child {
-	borde: thick solid green;
+	border: thick solid green;
 	margin-bottom: 1em;
 	margin-top: 1em;
 	padding: 1ex;
 	width: 40%;
-}
+	}
 
 p.centered {
 	text-align: center;
